@@ -25,6 +25,7 @@
   
   ## Usage
   Using the terminal type node command to prompt the program and answer a series of questions.
+  
   [Video Demo](https://youtu.be/gPezYvqwu5M)
   
   ![alt text](/assets/images/screenshot.png)
